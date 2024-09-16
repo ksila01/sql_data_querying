@@ -32,3 +32,6 @@ To get started, I connected to the MySQL database using the following configurat
 
 **Tables Available**
 * data_dictionary * employee * global_water_access * location *visits * water_quality * water_source * well_pollution
+***
+### Understanding Water Sources
+
